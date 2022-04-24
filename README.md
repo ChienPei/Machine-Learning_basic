@@ -1,6 +1,6 @@
-# Machine-Learning_basic
+# Machine-Learning_basic HW1
 Homework of Machine Learning class
-Hw1 Stock Price Forecast
+HW1 Stock Price Forecast
 
 Goal
 To make stock price forecasting by using the stock price of a company to predict the other in the same industry 
